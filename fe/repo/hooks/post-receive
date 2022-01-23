@@ -1,0 +1,2 @@
+#!/bin/bash
+git --work-tree=/var/www/fe --git-dir=/var/www/fe/repo checkout -f
