@@ -16,85 +16,127 @@ class SectionSeeder extends Seeder
     {
         $data = [
             [
-                'year_level' => 'I',
-                'section' => 'Section IA'
+                'year_level' => '1',
+                'section' => 'Section A'
             ],
             [
-                'year_level' => 'I',
-                'section' => 'Section IB'
+                'year_level' => '1',
+                'section' => 'Section B'
             ],
             [
-                'year_level' => 'I',
-                'section' => 'Section IC'
+                'year_level' => '1',
+                'section' => 'Section C'
             ],
             [
-                'year_level' => 'I',
-                'section' => 'Section ID'
+                'year_level' => '1',
+                'section' => 'Section D'
             ],
             [
-                'year_level' => 'I',
-                'section' => 'Section V'
+                'year_level' => '1',
+                'section' => 'Section E'
             ],
             [
-                'year_level' => 'II',
-                'section' => 'Section I'
+                'year_level' => '1',
+                'section' => 'Section F'
             ],
             [
-                'year_level' => 'II',
-                'section' => 'Section II'
+                'year_level' => '2',
+                'section' => 'Section A'
             ],
             [
-                'year_level' => 'II',
-                'section' => 'Section III'
+                'year_level' => '2',
+                'section' => 'Section B'
             ],
             [
-                'year_level' => 'II',
-                'section' => 'Section IV'
+                'year_level' => '2',
+                'section' => 'Section C'
             ],
             [
-                'year_level' => 'II',
-                'section' => 'Section V'
+                'year_level' => '2',
+                'section' => 'Section D'
             ],
             [
-                'year_level' => 'III',
-                'section' => 'Section I'
+                'year_level' => '2',
+                'section' => 'Section E'
             ],
             [
-                'year_level' => 'III',
-                'section' => 'Section II'
+                'year_level' => '2',
+                'section' => 'Section F'
+            ],
+            
+            [
+                'year_level' => '3',
+                'section' => 'Section A'
             ],
             [
-                'year_level' => 'III',
-                'section' => 'Section III'
+                'year_level' => '3',
+                'section' => 'Section B'
             ],
             [
-                'year_level' => 'III',
-                'section' => 'Section IV'
+                'year_level' => '3',
+                'section' => 'Section C'
             ],
             [
-                'year_level' => 'III',
-                'section' => 'Section V'
+                'year_level' => '3',
+                'section' => 'Section D'
             ],
             [
-                'year_level' => 'IV',
-                'section' => 'Section I'
+                'year_level' => '3',
+                'section' => 'Section E'
             ],
             [
-                'year_level' => 'IV',
-                'section' => 'Section II'
+                'year_level' => '3',
+                'section' => 'Section F'
             ],
             [
-                'year_level' => 'IV',
-                'section' => 'Section III'
+                'year_level' => '4',
+                'section' => 'Section A'
             ],
             [
-                'year_level' => 'IV',
-                'section' => 'Section IV'
+                'year_level' => '4',
+                'section' => 'Section B'
             ],
             [
-                'year_level' => 'IV',
-                'section' => 'Section V'
+                'year_level' => '4',
+                'section' => 'Section C'
             ],
+            [
+                'year_level' => '4',
+                'section' => 'Section D'
+            ],
+            [
+                'year_level' => '4',
+                'section' => 'Section E'
+            ],
+            [
+                'year_level' => '4',
+                'section' => 'Section F'
+            ],
+            [
+                'year_level' => '5',
+                'section' => 'Section A'
+            ],
+            [
+                'year_level' => '5',
+                'section' => 'Section B'
+            ],
+            [
+                'year_level' => '5',
+                'section' => 'Section C'
+            ],
+            [
+                'year_level' => '5',
+                'section' => 'Section D'
+            ],
+            [
+                'year_level' => '5',
+                'section' => 'Section E'
+            ],
+            [
+                'year_level' => '5',
+                'section' => 'Section F'
+            ],
+            
         ];
 
         foreach($data as $section) {
