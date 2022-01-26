@@ -17,19 +17,19 @@ class SectionSeeder extends Seeder
         $data = [
             [
                 'year_level' => 'I',
-                'section' => 'Section I'
+                'section' => 'Section IA'
             ],
             [
                 'year_level' => 'I',
-                'section' => 'Section II'
+                'section' => 'Section IB'
             ],
             [
                 'year_level' => 'I',
-                'section' => 'Section III'
+                'section' => 'Section IC'
             ],
             [
                 'year_level' => 'I',
-                'section' => 'Section IV'
+                'section' => 'Section ID'
             ],
             [
                 'year_level' => 'I',

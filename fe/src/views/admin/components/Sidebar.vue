@@ -3,7 +3,7 @@
 		<p class="text-center mt-5 mb-4 text-white fw-bolder">ADMIN</p>
 		<!-- <router-link to="/dashboard/home"><i class="bi bi-house"></i> Dashboard</router-link> -->
 		<router-link to="/dashboard/colleges"><i class="bi bi-plus-circle "></i><span>Colleges</span></router-link>
-		<router-link to="/dashboard/courses"><i class="bi bi-diagram-2"></i><span>Courses</span></router-link>
+		<router-link to="/dashboard/courses"><i class="bi bi-diagram-2"></i><span>Program Per College</span></router-link>
 		<router-link to="/dashboard/organizations"><i class="bi bi-people"></i> <span>Organization</span></router-link>
 		<!-- <router-link to="/dashboard/sections"><i class="bi bi-cursor"></i> Sections</router-link> -->
 		<router-link to="/dashboard/students"><i class="bi bi-person-circle"></i> <span>Students</span></router-link>
