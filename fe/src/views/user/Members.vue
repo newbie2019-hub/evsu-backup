@@ -306,10 +306,11 @@
     <div class="col-6">
      <label class="mt-2" for="yearlevel">Year Level</label>
      <select v-model="data.year_level" class="form-select">
-      <option value="I">Year Level - I</option>
-      <option value="II">Year Level - II</option>
-      <option value="III">Year Level - III</option>
-      <option value="IV">Year Level - IV</option>
+      <option value="1">Year Level - I</option>
+      <option value="2">Year Level - II</option>
+      <option value="3">Year Level - III</option>
+      <option value="4">Year Level - IV</option>
+      <option value="5">Year Level - V</option>
      </select>
     </div>
     <div class="col-6 mt-4">
