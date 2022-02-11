@@ -136,6 +136,7 @@
          <option value="2">Year Level - II</option>
          <option value="3">Year Level - III</option>
          <option value="4">Year Level - IV</option>
+         <option value="5">Year Level - V</option>
         </select>
         <label>Year Level</label>
        </div>
@@ -230,6 +231,7 @@
    await this.$store.dispatch('sections/allSections');
    await this.$store.dispatch('organizations/allOrganizations');
    await this.$store.dispatch('courses/allCourses');
+   console.log(this.allsections)
   },
   computed: {
    ...mapState('sections', ['allsections']),
