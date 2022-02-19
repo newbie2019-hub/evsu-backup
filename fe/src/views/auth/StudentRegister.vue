@@ -132,11 +132,11 @@
        <div class="form-floating mb-3">
         <select v-model="data.year_level" class="form-select">
          <option disabled value="" v-text="disabledOption1"></option>
-         <option value="1">Year Level - I</option>
-         <option value="2">Year Level - II</option>
-         <option value="3">Year Level - III</option>
-         <option value="4">Year Level - IV</option>
-         <option value="5">Year Level - V</option>
+         <option value="1">Year Level - 1</option>
+         <option value="2">Year Level - 2</option>
+         <option value="3">Year Level - 3</option>
+         <option value="4">Year Level - 4</option>
+         <option value="5">Year Level - 5</option>
         </select>
         <label>Year Level</label>
        </div>
